@@ -1,4 +1,4 @@
-## Hi there 👋
+## My Name is steven👋
 
 <!--
 **Shynn1/Shynn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
